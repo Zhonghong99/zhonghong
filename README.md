@@ -30,7 +30,7 @@ I’m a Data Analyst based in KL, Malaysia — on a mission to level up into a D
 
 ## A Garden for My Thought:
 
-Where I reflect on data, discipline, and ancient wisdom — turning ideas into words.
+Where I reflect on books I read, life/work experiences, ideas and ancient wisdom — turning them into words.
 
 [![Medium](https://img.shields.io/badge/Read%20on-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zhonghonglee)
 [![](https://visitcount.itsvg.in/api?id=Zhonghong99&icon=0&color=0)](https://visitcount.itsvg.in)
