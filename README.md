@@ -1,3 +1,9 @@
+# Hi there, I'm Lee Zhong Hong!  <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
+<p>
+  <img src="https://img.shields.io/badge/Lives-Malaysia-blue" alt="Lives in Malaysia" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Mandarin%20%26%20Malay-gold" alt="Languages: English & Hindi" />
+</p>
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zhonghong99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Zhonghong99&theme=dark&hide_border=false)<br/>
@@ -23,9 +29,22 @@ I’m a Data Analyst based in KL, Malaysia — on a mission to level up into a D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-zhong-hong-160b341a6/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zhonghong9998) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhonghonglee9998@gmail.com) 
 
 ## A Garden for My Thought:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@zhonghong9998](https://medium.com/@zhonghonglee))
----
+
+Where I reflect on data, discipline, and ancient wisdom — turning ideas into words.
+
+[![Medium](https://img.shields.io/badge/Read%20on-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zhonghonglee)
 [![](https://visitcount.itsvg.in/api?id=Zhonghong99&icon=0&color=0)](https://visitcount.itsvg.in)
+
+**Featured articles:**
+- 🧘 *Can ChatGPT Make You a Better Stoic?*  
+  👉 [Read article](https://medium.com/@zhonghonglee/can-chatgpt-make-you-a-better-stoic-8caa3e0bd3ba)
+
+- 📚 *Why Reading Books Has the Highest ROI Ever?*  
+  👉 [Read article](https://medium.com/@zhonghonglee/why-reading-books-has-the-highest-roi-ever-2752b8784a00)
+
+- 🧠 *Overcoming “Knowledge Anxiety”* — conquering the fear of not knowing enough  
+  👉 [Read article](https://medium.com/@zhonghonglee/overcoming-knowledge-anxiety-a-guide-to-conquering-the-fear-of-not-knowing-enough-e7a5e16a6ab3)
+
 
   ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zhonghong99) 
